@@ -16,3 +16,7 @@
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
 @import "./sass/sections/projects";
+
+.about-wrapper__image img {
+  transform: rotate(-90deg);
+}
